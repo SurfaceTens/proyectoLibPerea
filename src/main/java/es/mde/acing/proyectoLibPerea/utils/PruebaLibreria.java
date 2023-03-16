@@ -1,4 +1,4 @@
-package utils;
+package es.mde.acing.proyectoLibPerea.utils;
 
 public class PruebaLibreria {
 	
